@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+My first repository  
+Hi,I'm Chuanfeng Zhang,nice to meet u!
